@@ -1,4 +1,6 @@
-﻿namespace desafio_backend_1.Models.Clientes
+﻿using desafio_backend_1.Models.Enums;
+
+namespace desafio_backend_1.Models.Clientes
 {
     public class Cliente
     {

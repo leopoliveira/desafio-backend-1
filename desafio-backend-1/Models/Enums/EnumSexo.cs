@@ -1,4 +1,4 @@
-﻿namespace desafio_backend_1
+﻿namespace desafio_backend_1.Models.Enums
 {
     public enum EnumSexo
     {
