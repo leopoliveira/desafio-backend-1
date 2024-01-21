@@ -18,6 +18,8 @@
 
         public List<ProblemaDeSaude> ProblemasDeSaude { get; set; }
 
+        public decimal SomaGrauProblemas { get; set; }
+
         public DateTime DataCriacao { get; set; }
 
         public DateTime DataAtualizacao { get; set; }
